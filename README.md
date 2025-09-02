@@ -22,47 +22,26 @@ Highly passionate about uncovering insights from data, managing uncertainty, and
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masoodrazaa&theme=radical)  
 
 ---
-
 ## 📈 Contribution Graph  
 
-[![Masood's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masoodrazaa&theme=radical)](https://github.com/your-username)  
-
-
----
-
-## 📫 Connect With Me  
-
-[![Email](https://img.shields.io/badge/Email-md.masoodraza%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.masoodraza@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Masood%20Raza-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masood-raza)  
-[![GitHub](https://img.shields.io/badge/GitHub-masoodrazaa-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masoodrazaa)  
+[![Masood's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masoodrazaa&theme=tokyo-night&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true&custom_title=Masood's%20Monthly%20Contribution%20Graph&radius=16&area_color=00e7ff&area_opacity=0.3)](https://github.com/masoodrazaa)
 
 ---
-
 ## 📫 Connect With Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/masood-raza" target="_blank" title="LinkedIn">
+<p align="left">
+  <a href="https://www.linkedin.com/in/masood-raza" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/md_masoodraza" target="_blank" title="HackerRank">
+  <a href="https://www.hackerrank.com/md_masoodraza" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="48" height="48" alt="HackerRank"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/md.masoodraza" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="48" height="48" alt="Instagram"/>
+  <a href="https://www.instagram.com/md.masoodraza" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" height="48" alt="Instagram"/>
   </a>
 </p>
-
-<!-- Hover Animation Styling -->
-<style>
-  a img {
-    transition: transform 0.2s ease-in-out;
-  }
-  a img:hover {
-    transform: scale(1.2);
-  }
-</style>
 
 ---
 
