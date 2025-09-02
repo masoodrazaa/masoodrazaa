@@ -14,7 +14,20 @@ Highly passionate about uncovering insights from data, managing uncertainty, and
 ![Visitor Count](https://komarev.com/ghpvc/?username=masoodrazaa&style=for-the-badge&color=blue)  
 
 ---
+## 🛠️ Languages & Tools  
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=r" width="40" height="40" alt="R"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" width="40" height="40" alt="SPSS"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" alt="Excel"/>
+</p>
+
+
+
+---
 ## 📊 GitHub Stats  
 
 ![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoodrazaa&show_icons=true&theme=radical)  
