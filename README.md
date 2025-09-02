@@ -1,13 +1,15 @@
 <p align="center">
   <img src="assets/+919760786252.png" alt="Masood Raza Banner" />
 </p>
+
+---
+
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7F7&width=600&lines=Hi+there+👋,+I'm+Masood+Raza;Aspiring+Data+Analyst;Statistics+%7C+SQL+%7C+Python+%7C+R;Data+Visualization+%7C+Machine+Learning;Always+learning+new+things!)](https://git.io/typing-svg)
 
-I’m passionate about uncovering insights from data, managing uncertainty, and helping organizations make informed, data-driven decisions. With a strong foundation in **statistics**, hands-on experience in **Python, SQL, and R**, and proven problem-solving skills, I strive to bridge the gap between raw data and meaningful business solutions.  
+Highly passionate about uncovering insights from data, managing uncertainty, and helping organizations make informed, data-driven decisions. With a strong foundation in **statistics**, hands-on experience in **Python, SQL, and R**, and proven problem-solving skills, I strive to bridge the gap between raw data and meaningful real world solutions.  
 
 ---
-## 👀 Visitor Counter  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=masoodrazaa&style=for-the-badge&color=blue)  
 
