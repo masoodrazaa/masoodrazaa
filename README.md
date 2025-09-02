@@ -38,4 +38,32 @@ Highly passionate about uncovering insights from data, managing uncertainty, and
 
 ---
 
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/masood-raza" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/md_masoodraza" target="_blank" title="HackerRank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="48" height="48" alt="HackerRank"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/md.masoodraza" target="_blank" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="48" height="48" alt="Instagram"/>
+  </a>
+</p>
+
+<!-- Hover Animation Styling -->
+<style>
+  a img {
+    transition: transform 0.2s ease-in-out;
+  }
+  a img:hover {
+    transform: scale(1.2);
+  }
+</style>
+
+---
+
 ⭐️ From [Masood Raza](https://github.com/masoodrazaa)  
