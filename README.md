@@ -5,15 +5,22 @@
 ---
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7F7&width=600&lines=Hi+there+👋,+I'm+Masood+Raza;Aspiring+Data+Analyst;Statistics+%7C+SQL+%7C+Python+%7C+R;Data+Visualization+%7C+Machine+Learning;Always+learning+new+things!)](https://git.io/typing-svg)
-
-Highly passionate about uncovering insights from data, managing uncertainty, and helping organizations make informed, data-driven decisions. With a strong foundation in **statistics**, hands-on experience in **Python, SQL, and R**, and proven problem-solving skills, I strive to bridge the gap between raw data and meaningful real world solutions.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7F7&width=700&lines=Hi+there+👋,+I'm+Masood+Raza;Statistics+Professional+%7C+Data+Analytics;Technical+Trainer+%7C+Python+%7C+R+%7C+SQL;Turning+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=masoodrazaa&style=for-the-badge&color=blue)  
+## 👨‍💻 About Me  
+
+Highly passionate about applying **statistical analysis and data analytics** to solve real-world problems. I have professional experience as a **Technical Trainer**, with hands-on expertise in **Python, R, SQL, Linux, and statistical methods**.
+
+I enjoy transforming raw data into actionable insights, simplifying complex concepts, and mentoring learners through practical, industry-aligned applications.
 
 ---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=masoodrazaa&style=for-the-badge&color=blue)
+
+---
+
 ## 🛠️ Languages & Tools  
 
 <p align="left">
@@ -23,9 +30,8 @@ Highly passionate about uncovering insights from data, managing uncertainty, and
   <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" width="40" height="40" alt="SPSS"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" alt="Excel"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>
 </p>
-
-
 
 ---
 ## 📊 GitHub Stats  
