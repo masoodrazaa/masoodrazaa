@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/9760786252.png" alt="Masood Raza Banner" />
+  <img src="assets/banner.png" alt="Masood Raza Banner" />
 </p>
 
 <p align="center">
